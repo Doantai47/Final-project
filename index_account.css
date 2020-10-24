@@ -6,3 +6,12 @@ body {
     margin-left: 90%;
     margin-top: 0.5%;
 }
+
+.card-header {
+    background-color: gray;
+}
+
+.option {
+    display: flex;
+    justify-content: space-evenly;
+}
